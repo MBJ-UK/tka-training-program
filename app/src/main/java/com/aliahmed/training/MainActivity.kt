@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-        Toast.makeText(this, "onCreate MBJ here", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "onCreate MBJ here JAM", Toast.LENGTH_LONG).show()
     }
 }
 
