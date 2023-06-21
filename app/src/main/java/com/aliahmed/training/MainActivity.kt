@@ -1,5 +1,7 @@
 package com.aliahmed.training
 //Tony is here
+//Tony is here
+//Tony is here
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
@@ -24,7 +26,7 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-        Toast.makeText(this, "onCreate MBJ here", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "onCreate MBJ here JAM", Toast.LENGTH_LONG).show()
     }
 }
 
