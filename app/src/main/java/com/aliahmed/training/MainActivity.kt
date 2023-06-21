@@ -1,6 +1,5 @@
 package com.aliahmed.training
-//Tony is here
-//Tony is here
+//deleting two of Tony's comments
 //Tony is here
 import android.os.Bundle
 import android.widget.Toast
