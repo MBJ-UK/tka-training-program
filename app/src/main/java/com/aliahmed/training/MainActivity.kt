@@ -1,6 +1,5 @@
 package com.aliahmed.training
-//Tony is here
-//Tony is here
+//deleting two of Tony's comments
 //Tony is here
 import android.os.Bundle
 import android.widget.Toast
@@ -14,6 +13,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.aliahmed.training.ui.theme.TrainingTheme
+//another comment from MBJ
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -37,6 +37,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
+
+//this is my addition
 
 @Preview(showBackground = true)
 @Composable
